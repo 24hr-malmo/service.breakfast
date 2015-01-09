@@ -1,0 +1,24 @@
+{
+  "name": "service.breakfast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/24hr-malmo/service.breakfast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/24hr-malmo/service.breakfast/issues"
+  },
+  "homepage": "https://github.com/24hr-malmo/service.breakfast",
+  "dependencies": {
+    "googleapis": "^1.0.22",
+    "zmq": "^2.9.0",
+    "zonar": "^0.6.3"
+  }
+}
